@@ -6,3 +6,7 @@
 - 👯 I’m looking for collaborations for Research and my undergraduate Thesis
 - 📫 How to reach me: Drop me an [Email](mailto:ashutosh.gupta.070801@gmail.com) or DM me on [LinkedIn](https://www.linkedin.com/in/ashutosh-gupta781/)
 - ⚡ Fun fact: I like coffee a lot ☕
+<br>
+<br>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutosh781&count_private=true&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
