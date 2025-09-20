@@ -14,4 +14,4 @@
   - Locomotion of modular snake robots and modular leg-wheel hybrid robot
 - 📫 How to reach me: Drop me a DM on [LinkedIn](https://www.linkedin.com/in/ashutosh-gupta781/) and check out my [website](https://ashutosh781.github.io/)
 - ⚡ Fun fact: I like coffee ☕ airplanes ✈️ and sketching 🎨
-- 📝 You can find my resume [here](https://drive.google.com/file/d/1AqzNfTDYa_7IPigrYaiSDW5cHXKaIIks/view?usp=drive_link)
+- 📝 You can find my resume [here](https://ashutoshg.com/data/Resume_Ashutosh_Gupta.pdf)
